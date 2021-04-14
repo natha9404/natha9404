@@ -8,7 +8,7 @@
 </div>
 
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 About Me</h2>
 <p align="center">
   <samp> Software engineer with 4 years of experience in web development, animal lover, a science fiction book and a good game of volleyball.
   </samp>
