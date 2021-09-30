@@ -23,7 +23,7 @@
   <img alt="python" src="https://img.shields.io/badge/python-%230077B5.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img alt="django" src="https://img.shields.io/badge/django-046D06.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center"> <samp> Python, Django and Angular. </samp></p>
+<p align="center"> <samp> Python, Django and Django REST. </samp></p>
 <hr>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
