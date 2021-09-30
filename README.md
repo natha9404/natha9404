@@ -22,7 +22,6 @@
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/python-%230077B5.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img alt="django" src="https://img.shields.io/badge/django-046D06.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img alt="angular" src="https://img.shields.io/badge/angular-dd1b16.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center"> <samp> Python, Django and Angular. </samp></p>
 <hr>
